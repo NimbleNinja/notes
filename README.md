@@ -1,6 +1,6 @@
 # Note list for Volsor
 
-Current project version on [Netlify]().
+Current project version on [Netlify](https://majestic-peony-f500a8.netlify.app/).
 
 ## Description
 
