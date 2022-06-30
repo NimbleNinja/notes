@@ -1,0 +1,25 @@
+.item {
+  flex: 0 0 calc(50% - 5px);
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+
+  &__content {
+    flex: 1 1 auto;
+    padding: 5px;
+  }
+  &__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 5px;
+    border-top: 1px solid black;
+  }
+  &__actions {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+}
